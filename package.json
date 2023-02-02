@@ -1,20 +1,20 @@
 {
-  "name": "goit-js-hw-08",
+  "name": "goit-js-hw-10",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://olegkrop.github.io/goit-js-hw-08",
+  "homepage": "https://olegkrop.github.io/goit-js-hw-10",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-10/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/olegkrop/goit-js-hw-08.git"
+    "url": "git+https://github.com/olegkrop/goit-js-hw-10.git"
   },
   "keywords": [],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/olegkrop/goit-js-hw-08/issues"
+    "url": "https://github.com/olegkrop/goit-js-hw-10/issues"
   },
   "dependencies": {
     "@vimeo/player": "^2.18.0",
