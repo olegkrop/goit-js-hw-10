@@ -18,7 +18,7 @@ function onInput(event) {
     if (!countryName) {
         countryList.innerHTML = '';
         countryInfo.innerHTML = '';
-        throw new Error('Error fetching data');
+        // throw new Error('Error fetching data');
     };
 
     fetchCountries(countryName)
